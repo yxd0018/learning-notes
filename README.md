@@ -5,6 +5,7 @@ Taking notes on books I read, talks I watch and articles I study, recalling them
 ### Book notes
 
 * [99 Bottles of OOP](books/99-bottles-of-oop.md) by **Sandi Metz** and **Katrina Owen**, 2016.
+* [Designing Data-Intensive Applications](books/designing-data-intensive-applications.md) by **Martin Kleppmann**, 2015.
 * [Distributed Systems Observability ](books/distributed-systems-observability.md) by **Cindy Sridharan**, 2018.
 * [Effective Java](books/effective-java.md) by **Joshua Bloch**, 2001.
 * [Elements of Programming Style](books/elements-of-programming-style.md) by **Brian W. Kernighan** and **P.J. Plauger**, 1988.  
@@ -39,7 +40,7 @@ If you are interested in the books I read, [follow me in Goodreads](https://www.
 
 ## Contributing
 
-This is my personal learning space. I keep it for my personal enjoyement, if you are thinking about adding your own summaries it may be a better idea to start your own.
+This is my personal learning space. I keep it for my personal enjoyment, if you are thinking about adding your own summaries it may be a better idea to start your own.
 
 If you have any suggestion for improvement please feel free to open a pull request.
 
